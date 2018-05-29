@@ -14,6 +14,6 @@
 * HTML and Github
 
 ### License
-Copyright (c) 2016 **_{Ron Craig and David Lewis}_**
+Copyright (c) 2018 **_{Ron Craig and David Lewis}_**
 
 This software is licensed under the MIT license.
