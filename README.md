@@ -1,14 +1,15 @@
 # hello-world
-### https://github.com/r-craig73/hello-world
+### GitHub repository: https://github.com/r-craig73/hello-world
 
 ### By Ron Craig (ron.craig@comcast.net) & David Lewis
 
 ## Description
-###  A HTML and Github exercise. A program that collects languages and also fun.
+* Epicodus Intro to Programming lesson.
+* A Github and HTML exercise. A program that collects languages and also fun.
 
 ## Setup
 * Clone the repository.
-* Open the `hello-world.html` file in a web browser (Chrome, Firefox, Safari, etc.).
+* Open `hello-world.html` file in a web browser (Chrome, Firefox, Safari, etc.).
 
 ## Technologies Used
 * HTML and Github
